@@ -16,7 +16,7 @@ ms.custom:
 
 # Mail flow reports in the new Exchange admin center in Exchange Online
 
-Admins can use mail flow reports in the new Exchange admin center (new EAC) to establish baselines and discover trends to fix issues related to mail flow in their organization.
+Admins can't use mail flow reports in the new Exchange admin center (new EAC) to establish baselines and discover trends to fix issues related to mail flow in their organization.
 
 The following mail flow reports are available:
 
